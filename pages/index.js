@@ -89,7 +89,7 @@ const Home = () => (
           {' '}
         </Paragraph>
           <NextLink href="/works/inkdrop">
-            <Link>Wydad Football Science</Link>
+            <Link>Wydad Football science</Link>
           </NextLink>
           .
 
@@ -223,11 +223,11 @@ const Home = () => (
             My YouTube channel
           </GridItem>
           <GridItem
-            href="https://www.wydadfootballscience.com/"
-            title="WFS PLATFORM"
+            href="https://www.wydadlab.com/"
+            title="WydadLab PLATFORM"
             thumbnail={thumbInkdrop}
           >
-            The Match Analysis tool
+            Data/Tactical Analysis Platform
           </GridItem>
         </SimpleGrid>
 
